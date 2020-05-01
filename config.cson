@@ -1,0 +1,20 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  editor:
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "2efc0a85-1879-46af-8678-66743fa15b49"
+  minimap:
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
+      cursorline: true
+      cursorlineDecorationsZIndex: 0
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+  "remote-sync": {}
+  welcome:
+    showOnStartup: false
